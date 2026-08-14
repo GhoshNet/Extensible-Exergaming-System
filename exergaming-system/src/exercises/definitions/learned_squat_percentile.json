@@ -1,0 +1,151 @@
+{
+  "name": "Learned Squat (percentile)",
+  "description": "Learned from demonstration. Primary signal: knee_angle. Important signals: knee_angle, hip_angle, ankle_angle, elbow_angle, arm_spread_ratio, leg_spread_ratio. Re-derived with EXTREME_PERCENTILE=2.0 (2nd/98th percentile extremes) from the same demonstration video as the original; kept alongside it so both variants can be evaluated.",
+  "source": "learned",
+  "camera_view": "either",
+  "fallback_mode": "bilateral",
+  "initial_state": "IDLE",
+  "angle_signals": [
+    {
+      "name": "knee_angle",
+      "landmarks": [
+        "HIP",
+        "KNEE",
+        "ANKLE"
+      ],
+      "bilateral": true,
+      "importance": 1.0
+    },
+    {
+      "name": "hip_angle",
+      "landmarks": [
+        "SHOULDER",
+        "HIP",
+        "KNEE"
+      ],
+      "bilateral": true,
+      "importance": 0.5
+    },
+    {
+      "name": "ankle_angle",
+      "landmarks": [
+        "KNEE",
+        "ANKLE",
+        "FOOT_INDEX"
+      ],
+      "bilateral": true,
+      "importance": 0.333
+    },
+    {
+      "name": "elbow_angle",
+      "landmarks": [
+        "SHOULDER",
+        "ELBOW",
+        "WRIST"
+      ],
+      "bilateral": true,
+      "importance": 0.25
+    }
+  ],
+  "ratio_signals": [
+    {
+      "name": "arm_spread_ratio",
+      "numerator": [
+        "LEFT_WRIST",
+        "RIGHT_WRIST"
+      ],
+      "denominator": [
+        "LEFT_SHOULDER",
+        "RIGHT_SHOULDER"
+      ],
+      "importance": 0.2
+    },
+    {
+      "name": "leg_spread_ratio",
+      "numerator": [
+        "LEFT_ANKLE",
+        "RIGHT_ANKLE"
+      ],
+      "denominator": [
+        "LEFT_HIP",
+        "RIGHT_HIP"
+      ],
+      "importance": 0.167
+    }
+  ],
+  "transitions": [
+    {
+      "from_states": [
+        "IDLE",
+        "UP"
+      ],
+      "to_state": "DOWN",
+      "conditions": [
+        {
+          "signal": "knee_angle",
+          "direction": "below",
+          "threshold": 96.2
+        }
+      ]
+    },
+    {
+      "from_states": [
+        "DOWN"
+      ],
+      "to_state": "UP",
+      "conditions": [
+        {
+          "signal": "knee_angle",
+          "direction": "above",
+          "threshold": 157.6
+        }
+      ]
+    }
+  ],
+  "rep_complete_transition": [
+    "DOWN",
+    "UP"
+  ],
+  "form": {
+    "tracking": "min",
+    "during_state": "DOWN",
+    "tracked_signals": [
+      "knee_angle"
+    ],
+    "levels": [
+      {
+        "rating": "excellent",
+        "operator": "all",
+        "conditions": [
+          {
+            "signal": "knee_angle",
+            "direction": "below",
+            "threshold": 55.3
+          }
+        ]
+      },
+      {
+        "rating": "good",
+        "operator": "all",
+        "conditions": [
+          {
+            "signal": "knee_angle",
+            "direction": "below",
+            "threshold": 82.6
+          }
+        ]
+      },
+      {
+        "rating": "fair",
+        "operator": "all",
+        "conditions": [
+          {
+            "signal": "knee_angle",
+            "direction": "below",
+            "threshold": 109.8
+          }
+        ]
+      }
+    ]
+  }
+}

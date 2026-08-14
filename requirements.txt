@@ -1,0 +1,15 @@
+# Exergaming System - Python dependencies
+#
+# Versions are pinned to the environment the dissertation evaluation was run on
+# (see the Evaluation chapter, "Environment" table). Python 3.11 is recommended;
+# MediaPipe 0.10.14 does not publish wheels for every newer Python release.
+
+# --- Core runtime (required to run the desktop application) ------------------
+opencv-python==4.11.0.86     # video capture, decoding, frame handling
+mediapipe==0.10.14           # BlazePose pose estimation (33 landmarks/frame)
+numpy==1.26.4                # signal maths
+PyQt6==6.7.1                 # desktop GUI
+PyQt6-sip==13.8.0            # PyQt6 binding support
+
+# --- Only needed to regenerate evaluation figures (reports/generate_*.py) -----
+matplotlib==3.9.0

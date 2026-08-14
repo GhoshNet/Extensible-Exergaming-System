@@ -1,0 +1,6 @@
+{
+  "name": "exergaming-mobile",
+  "private": true,
+  "type": "module",
+  "description": "Browser-based, on-device rep counter (squat, push-up, bicep curl). Static site + Node test suite; no build step, no runtime dependencies."
+}

@@ -1,0 +1,96 @@
+{
+  "name": "Learned Push-up",
+  "description": "Learned from demonstration. Primary signal: elbow_angle. Important signals: elbow_angle.",
+  "source": "learned",
+  "camera_view": "either",
+  "fallback_mode": "bilateral",
+  "initial_state": "IDLE",
+  "angle_signals": [
+    {
+      "name": "elbow_angle",
+      "landmarks": [
+        "SHOULDER",
+        "ELBOW",
+        "WRIST"
+      ],
+      "bilateral": true,
+      "importance": 1.0
+    }
+  ],
+  "ratio_signals": [],
+  "transitions": [
+    {
+      "from_states": [
+        "IDLE",
+        "UP"
+      ],
+      "to_state": "DOWN",
+      "conditions": [
+        {
+          "signal": "elbow_angle",
+          "direction": "below",
+          "threshold": 104.9
+        }
+      ]
+    },
+    {
+      "from_states": [
+        "DOWN"
+      ],
+      "to_state": "UP",
+      "conditions": [
+        {
+          "signal": "elbow_angle",
+          "direction": "above",
+          "threshold": 160.1
+        }
+      ]
+    }
+  ],
+  "rep_complete_transition": [
+    "DOWN",
+    "UP"
+  ],
+  "form": {
+    "tracking": "min",
+    "during_state": "DOWN",
+    "tracked_signals": [
+      "elbow_angle"
+    ],
+    "levels": [
+      {
+        "rating": "excellent",
+        "operator": "all",
+        "conditions": [
+          {
+            "signal": "elbow_angle",
+            "direction": "below",
+            "threshold": 68.1
+          }
+        ]
+      },
+      {
+        "rating": "good",
+        "operator": "all",
+        "conditions": [
+          {
+            "signal": "elbow_angle",
+            "direction": "below",
+            "threshold": 92.7
+          }
+        ]
+      },
+      {
+        "rating": "fair",
+        "operator": "all",
+        "conditions": [
+          {
+            "signal": "elbow_angle",
+            "direction": "below",
+            "threshold": 117.2
+          }
+        ]
+      }
+    ]
+  }
+}

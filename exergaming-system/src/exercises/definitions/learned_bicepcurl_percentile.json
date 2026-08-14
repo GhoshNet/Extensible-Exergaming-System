@@ -1,0 +1,106 @@
+{
+  "name": "BicepCurl (percentile)",
+  "description": "Learned from demonstration. Primary signal: elbow_angle. Important signals: elbow_angle, arm_angle. Re-derived with EXTREME_PERCENTILE=2.0 (2nd/98th percentile extremes) from the same demonstration video as the original; kept alongside it so both variants can be evaluated.",
+  "source": "learned",
+  "camera_view": "either",
+  "fallback_mode": "bilateral",
+  "initial_state": "IDLE",
+  "angle_signals": [
+    {
+      "name": "elbow_angle",
+      "landmarks": [
+        "SHOULDER",
+        "ELBOW",
+        "WRIST"
+      ],
+      "bilateral": true,
+      "importance": 1.0
+    },
+    {
+      "name": "arm_angle",
+      "landmarks": [
+        "HIP",
+        "SHOULDER",
+        "ELBOW"
+      ],
+      "bilateral": true,
+      "importance": 0.5
+    }
+  ],
+  "ratio_signals": [],
+  "transitions": [
+    {
+      "from_states": [
+        "IDLE",
+        "UP"
+      ],
+      "to_state": "DOWN",
+      "conditions": [
+        {
+          "signal": "elbow_angle",
+          "direction": "below",
+          "threshold": 100.3
+        }
+      ]
+    },
+    {
+      "from_states": [
+        "DOWN"
+      ],
+      "to_state": "UP",
+      "conditions": [
+        {
+          "signal": "elbow_angle",
+          "direction": "above",
+          "threshold": 149.7
+        }
+      ]
+    }
+  ],
+  "rep_complete_transition": [
+    "DOWN",
+    "UP"
+  ],
+  "form": {
+    "tracking": "min",
+    "during_state": "DOWN",
+    "tracked_signals": [
+      "elbow_angle"
+    ],
+    "levels": [
+      {
+        "rating": "excellent",
+        "operator": "all",
+        "conditions": [
+          {
+            "signal": "elbow_angle",
+            "direction": "below",
+            "threshold": 67.3
+          }
+        ]
+      },
+      {
+        "rating": "good",
+        "operator": "all",
+        "conditions": [
+          {
+            "signal": "elbow_angle",
+            "direction": "below",
+            "threshold": 89.3
+          }
+        ]
+      },
+      {
+        "rating": "fair",
+        "operator": "all",
+        "conditions": [
+          {
+            "signal": "elbow_angle",
+            "direction": "below",
+            "threshold": 111.3
+          }
+        ]
+      }
+    ]
+  }
+}

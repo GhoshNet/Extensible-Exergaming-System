@@ -1,0 +1,240 @@
+category,file,path,duration_s,ground_truth_reps,notes
+squat,arc1_final_kaggle_with_additional_video_squat_1.MOV,Videos/squat/arc1_final_kaggle_with_additional_video_squat_1.MOV,19.58,6,Front Angle Camera where the portion below knees are not recorded fully.
+squat,arc1_final_kaggle_with_additional_video_squat_10.mp4,Videos/squat/arc1_final_kaggle_with_additional_video_squat_10.mp4,7.3,2,
+squat,arc1_final_kaggle_with_additional_video_squat_11.mp4,Videos/squat/arc1_final_kaggle_with_additional_video_squat_11.mp4,6.01,1,
+squat,arc1_final_kaggle_with_additional_video_squat_12.mp4,Videos/squat/arc1_final_kaggle_with_additional_video_squat_12.mp4,4.71,1,
+squat,arc1_final_kaggle_with_additional_video_squat_14.mp4,Videos/squat/arc1_final_kaggle_with_additional_video_squat_14.mp4,4.21,1,
+squat,arc1_final_kaggle_with_additional_video_squat_15.mp4,Videos/squat/arc1_final_kaggle_with_additional_video_squat_15.mp4,11.68,3,
+squat,arc1_final_kaggle_with_additional_video_squat_16.mp4,Videos/squat/arc1_final_kaggle_with_additional_video_squat_16.mp4,1.96,1,Video started from the middle of going down.
+squat,arc1_final_kaggle_with_additional_video_squat_2.MOV,Videos/squat/arc1_final_kaggle_with_additional_video_squat_2.MOV,14.35,4,Feet portion not visible for the first rep. There are more individuals in the background seen in the mirrors of the gym.
+squat,arc1_final_kaggle_with_additional_video_squat_20.mp4,Videos/squat/arc1_final_kaggle_with_additional_video_squat_20.mp4,7.77,2,Front Angle. Camera Angle keeps moving up and down with the person.
+squat,arc1_final_kaggle_with_additional_video_squat_21.mp4,Videos/squat/arc1_final_kaggle_with_additional_video_squat_21.mp4,10.96,4,Video Cuts on the 5th rep
+squat,arc1_final_kaggle_with_additional_video_squat_22.mp4,Videos/squat/arc1_final_kaggle_with_additional_video_squat_22.mp4,12.61,3,Knees not visible at all in the video
+squat,arc1_final_kaggle_with_additional_video_squat_23.mp4,Videos/squat/arc1_final_kaggle_with_additional_video_squat_23.mp4,14.41,2,Front angle
+squat,arc1_final_kaggle_with_additional_video_squat_24.mp4,Videos/squat/arc1_final_kaggle_with_additional_video_squat_24.mp4,21.59,3,Front angle with a zoom on the upper body and camera moves up and down with the person. Making the knees visible only when the person comes all the way down.
+squat,arc1_final_kaggle_with_additional_video_squat_25.mp4,Videos/squat/arc1_final_kaggle_with_additional_video_squat_25.mp4,12.28,3,
+squat,arc1_final_kaggle_with_additional_video_squat_3.MOV,Videos/squat/arc1_final_kaggle_with_additional_video_squat_3.MOV,21.32,5,
+squat,arc1_final_kaggle_with_additional_video_squat_5.MOV,Videos/squat/arc1_final_kaggle_with_additional_video_squat_5.MOV,21.89,4,
+squat,arc1_final_kaggle_with_additional_video_squat_7.mp4,Videos/squat/arc1_final_kaggle_with_additional_video_squat_7.mp4,9.48,2,Partial reps. Not going fully down in the reps.
+squat,arc1_final_kaggle_with_additional_video_squat_8.mp4,Videos/squat/arc1_final_kaggle_with_additional_video_squat_8.mp4,14.4,2,
+squat,arc1_my_test_video_1_squat_1.mp4,Videos/squat/arc1_my_test_video_1_squat_1.mp4,18.17,7,Front angle
+squat,arc1_my_test_video_1_squat_2.mp4,Videos/squat/arc1_my_test_video_1_squat_2.mp4,14.13,6,Front angle
+squat,arc1_similar_dataset_385c01f2-e604-46d4-a84b-949b733395dd.mp4,Videos/squat/arc1_similar_dataset_385c01f2-e604-46d4-a84b-949b733395dd.mp4,5.0,1,
+squat,arc1_similar_dataset_6dddd176-2460-48cf-bd01-3eaaa0dc754f.mp4,Videos/squat/arc1_similar_dataset_6dddd176-2460-48cf-bd01-3eaaa0dc754f.mp4,10.0,3,Video cuts in the middle of 4th rep.
+squat,arc1_similar_dataset_71ef5d06-bfea-449b-8ff3-b428ae7dbaa7.mp4,Videos/squat/arc1_similar_dataset_71ef5d06-bfea-449b-8ff3-b428ae7dbaa7.mp4,10.01,2,2 Cameras. Video cuts and changes cameras mid-rep.
+squat,arc1_similar_dataset_897f5a21-f1a1-477e-aa8b-11b7ee9378d2.mp4,Videos/squat/arc1_similar_dataset_897f5a21-f1a1-477e-aa8b-11b7ee9378d2.mp4,6.0,2,
+squat,arc1_similar_dataset_v_BodyWeightSquats_g01_c01.avi,Videos/squat/arc1_similar_dataset_v_BodyWeightSquats_g01_c01.avi,10.68,4,
+squat,arc1_similar_dataset_v_BodyWeightSquats_g01_c02.avi,Videos/squat/arc1_similar_dataset_v_BodyWeightSquats_g01_c02.avi,10.08,4,
+squat,arc1_similar_dataset_v_BodyWeightSquats_g02_c02.avi,Videos/squat/arc1_similar_dataset_v_BodyWeightSquats_g02_c02.avi,2.28,1,
+squat,arc1_similar_dataset_v_BodyWeightSquats_g02_c03.avi,Videos/squat/arc1_similar_dataset_v_BodyWeightSquats_g02_c03.avi,4.68,2,
+squat,arc1_similar_dataset_v_BodyWeightSquats_g04_c03.avi,Videos/squat/arc1_similar_dataset_v_BodyWeightSquats_g04_c03.avi,3.52,1,
+squat,arc1_similar_dataset_v_BodyWeightSquats_g04_c04.avi,Videos/squat/arc1_similar_dataset_v_BodyWeightSquats_g04_c04.avi,2.52,1,
+squat,arc1_similar_dataset_v_BodyWeightSquats_g06_c01.avi,Videos/squat/arc1_similar_dataset_v_BodyWeightSquats_g06_c01.avi,7.16,2,
+squat,arc1_similar_dataset_v_BodyWeightSquats_g06_c02.avi,Videos/squat/arc1_similar_dataset_v_BodyWeightSquats_g06_c02.avi,4.88,2,
+squat,arc1_similar_dataset_v_BodyWeightSquats_g15_c03.avi,Videos/squat/arc1_similar_dataset_v_BodyWeightSquats_g15_c03.avi,5.48,2,Front angle
+squat,arc1_similar_dataset_v_BodyWeightSquats_g15_c04.avi,Videos/squat/arc1_similar_dataset_v_BodyWeightSquats_g15_c04.avi,5.04,2,Front angle
+squat,arc1_similar_dataset_v_BodyWeightSquats_g22_c03.avi,Videos/squat/arc1_similar_dataset_v_BodyWeightSquats_g22_c03.avi,5.52,2,Feet not visible
+squat,arc2_squat_13.mp4,Videos/squat/arc2_squat_13.mp4,5.42,2,Left side back angle
+squat,arc2_squat_29.mp4,Videos/squat/arc2_squat_29.mp4,2.29,1,
+squat,arc2_squat_7.mp4,Videos/squat/arc2_squat_7.mp4,2.32,0,Video starts mid rep.
+squat,arc2_squat_8.mp4,Videos/squat/arc2_squat_8.mp4,4.21,1,Back angle
+squat,arc2_squat_9.mp4,Videos/squat/arc2_squat_9.mp4,3.0,1,Rotating Camera from side to back.
+push-up,arc1_final_kaggle_with_additional_video_push-up_1.mp4,Videos/push-up/arc1_final_kaggle_with_additional_video_push-up_1.mp4,5.0,2,
+push-up,arc1_final_kaggle_with_additional_video_push-up_10.mp4,Videos/push-up/arc1_final_kaggle_with_additional_video_push-up_10.mp4,5.0,3,Front Angle. The video stops just before the full completion of last rep.
+push-up,arc1_final_kaggle_with_additional_video_push-up_11.mp4,Videos/push-up/arc1_final_kaggle_with_additional_video_push-up_11.mp4,3.6,1,
+push-up,arc1_final_kaggle_with_additional_video_push-up_12.mp4,Videos/push-up/arc1_final_kaggle_with_additional_video_push-up_12.mp4,5.0,3,Front angle
+push-up,arc1_final_kaggle_with_additional_video_push-up_13.mp4,Videos/push-up/arc1_final_kaggle_with_additional_video_push-up_13.mp4,4.84,2,Front and above camera angle
+push-up,arc1_final_kaggle_with_additional_video_push-up_14.mp4,Videos/push-up/arc1_final_kaggle_with_additional_video_push-up_14.mp4,5.0,2,
+push-up,arc1_final_kaggle_with_additional_video_push-up_15.mp4,Videos/push-up/arc1_final_kaggle_with_additional_video_push-up_15.mp4,5.0,2,4 reps but first and last rep are cut in the video.
+push-up,arc1_final_kaggle_with_additional_video_push-up_16.mp4,Videos/push-up/arc1_final_kaggle_with_additional_video_push-up_16.mp4,4.67,1,
+push-up,arc1_final_kaggle_with_additional_video_push-up_17.mp4,Videos/push-up/arc1_final_kaggle_with_additional_video_push-up_17.mp4,5.0,4,Front angle
+push-up,arc1_final_kaggle_with_additional_video_push-up_18.mp4,Videos/push-up/arc1_final_kaggle_with_additional_video_push-up_18.mp4,5.0,1,Side and above angle.
+push-up,arc1_final_kaggle_with_additional_video_push-up_19.mp4,Videos/push-up/arc1_final_kaggle_with_additional_video_push-up_19.mp4,5.0,4,Video ends just before completion of 4th rep.
+push-up,arc1_final_kaggle_with_additional_video_push-up_2.mp4,Videos/push-up/arc1_final_kaggle_with_additional_video_push-up_2.mp4,5.0,2,Video cuts between 3rd rep.
+push-up,arc1_final_kaggle_with_additional_video_push-up_20.mp4,Videos/push-up/arc1_final_kaggle_with_additional_video_push-up_20.mp4,2.74,1,Front angle
+push-up,arc1_final_kaggle_with_additional_video_push-up_21.mp4,Videos/push-up/arc1_final_kaggle_with_additional_video_push-up_21.mp4,3.77,1,
+push-up,arc1_final_kaggle_with_additional_video_push-up_22.mp4,Videos/push-up/arc1_final_kaggle_with_additional_video_push-up_22.mp4,5.0,1,
+push-up,arc1_final_kaggle_with_additional_video_push-up_23.mp4,Videos/push-up/arc1_final_kaggle_with_additional_video_push-up_23.mp4,3.87,1,Camera zooming in
+push-up,arc1_final_kaggle_with_additional_video_push-up_24.mp4,Videos/push-up/arc1_final_kaggle_with_additional_video_push-up_24.mp4,4.2,1,
+push-up,arc1_final_kaggle_with_additional_video_push-up_25.mp4,Videos/push-up/arc1_final_kaggle_with_additional_video_push-up_25.mp4,3.27,1,Camera too close
+push-up,arc1_final_kaggle_with_additional_video_push-up_3.mp4,Videos/push-up/arc1_final_kaggle_with_additional_video_push-up_3.mp4,5.0,2,Video starts mid rep. So excluding that it’s 2.
+push-up,arc1_final_kaggle_with_additional_video_push-up_4.mp4,Videos/push-up/arc1_final_kaggle_with_additional_video_push-up_4.mp4,5.0,2,
+push-up,arc1_final_kaggle_with_additional_video_push-up_5.mp4,Videos/push-up/arc1_final_kaggle_with_additional_video_push-up_5.mp4,5.0,1,Incomplete video of 1st and 3rd rep.
+push-up,arc1_final_kaggle_with_additional_video_push-up_6.mp4,Videos/push-up/arc1_final_kaggle_with_additional_video_push-up_6.mp4,5.0,2,
+push-up,arc1_final_kaggle_with_additional_video_push-up_7.mp4,Videos/push-up/arc1_final_kaggle_with_additional_video_push-up_7.mp4,5.0,2,Diamond Pushup
+push-up,arc1_final_kaggle_with_additional_video_push-up_8.mp4,Videos/push-up/arc1_final_kaggle_with_additional_video_push-up_8.mp4,5.0,1,Diamond Pushup. Incomplete video of starting and ending rep. So counted only mid rep.
+push-up,arc1_final_kaggle_with_additional_video_push-up_9.mp4,Videos/push-up/arc1_final_kaggle_with_additional_video_push-up_9.mp4,5.0,2,Diamond Pushup
+push-up,arc1_my_test_video_1_push-up_1.mp4,Videos/push-up/arc1_my_test_video_1_push-up_1.mp4,14.07,9,Proper home workout
+push-up,arc1_my_test_video_1_push-up_2.mp4,Videos/push-up/arc1_my_test_video_1_push-up_2.mp4,12.07,9,Front Angle. Home Workout
+push-up,arc1_my_test_video_1_push-up_3.mp4,Videos/push-up/arc1_my_test_video_1_push-up_3.mp4,12.2,8,Proper home workout
+push-up,arc1_similar_dataset_01b09356-3985-474f-827f-20c79cfcda78.mp4,Videos/push-up/arc1_similar_dataset_01b09356-3985-474f-827f-20c79cfcda78.mp4,10.0,4,
+push-up,arc1_similar_dataset_02dd7b9d-c7fe-41b8-993a-e250b07a5ceb.mp4,Videos/push-up/arc1_similar_dataset_02dd7b9d-c7fe-41b8-993a-e250b07a5ceb.mp4,10.0,11,Falls in between initial reps of 2-3.
+push-up,arc1_similar_dataset_10cad66c-a298-4de5-ac55-16ff825f8101.mp4,Videos/push-up/arc1_similar_dataset_10cad66c-a298-4de5-ac55-16ff825f8101.mp4,10.03,14,
+push-up,arc1_similar_dataset_53f39e2a-4ca3-45d1-af84-6ddfde7ff818.mp4,Videos/push-up/arc1_similar_dataset_53f39e2a-4ca3-45d1-af84-6ddfde7ff818.mp4,10.0,12,Falls on the last rep.
+push-up,arc1_similar_dataset_57f76c55-838a-4184-9ad0-effced296b5c.mp4,Videos/push-up/arc1_similar_dataset_57f76c55-838a-4184-9ad0-effced296b5c.mp4,10.03,13,
+push-up,arc1_similar_dataset_5b596f14-2afd-45c1-a79b-f5b61bf050a7.mp4,Videos/push-up/arc1_similar_dataset_5b596f14-2afd-45c1-a79b-f5b61bf050a7.mp4,4.01,5,Short reps
+push-up,arc1_similar_dataset_5e507b14-eaeb-4b1a-9ff0-3de5883d0d22.mp4,Videos/push-up/arc1_similar_dataset_5e507b14-eaeb-4b1a-9ff0-3de5883d0d22.mp4,10.0,18,Quick short reps (Burst Pushups).
+push-up,arc1_similar_dataset_64f7ef6d-5a82-48e1-b75f-cca64f151315.mp4,Videos/push-up/arc1_similar_dataset_64f7ef6d-5a82-48e1-b75f-cca64f151315.mp4,10.01,13,Video stops just before completion of 13th rep.
+push-up,arc1_similar_dataset_6e4f0e04-4dbd-476c-9884-a476bd7a2c33.mp4,Videos/push-up/arc1_similar_dataset_6e4f0e04-4dbd-476c-9884-a476bd7a2c33.mp4,10.0,10,
+push-up,arc1_similar_dataset_a31bfef9-b3ea-4fb9-8541-572fa62f15bb.mp4,Videos/push-up/arc1_similar_dataset_a31bfef9-b3ea-4fb9-8541-572fa62f15bb.mp4,10.0,18,Short reps (Hands not fully comes up)
+push-up,arc1_similar_dataset_bd26f1c8-271f-45d2-a877-0deaa4f6e6f2.mp4,Videos/push-up/arc1_similar_dataset_bd26f1c8-271f-45d2-a877-0deaa4f6e6f2.mp4,10.0,17,Short reps
+push-up,arc1_similar_dataset_v_PushUps_g01_c02.avi,Videos/push-up/arc1_similar_dataset_v_PushUps_g01_c02.avi,2.12,2,
+push-up,arc1_similar_dataset_v_PushUps_g17_c02.avi,Videos/push-up/arc1_similar_dataset_v_PushUps_g17_c02.avi,3.24,2,
+push-up,arc1_similar_dataset_v_PushUps_g17_c03.avi,Videos/push-up/arc1_similar_dataset_v_PushUps_g17_c03.avi,2.96,2,
+push-up,arc1_similar_dataset_v_PushUps_g19_c03.avi,Videos/push-up/arc1_similar_dataset_v_PushUps_g19_c03.avi,3.04,3,
+push-up,arc1_similar_dataset_v_PushUps_g25_c01.avi,Videos/push-up/arc1_similar_dataset_v_PushUps_g25_c01.avi,3.6,2,Video starts mid rep just after the starting position
+push-up,arc1_similar_dataset_v_PushUps_g25_c02.avi,Videos/push-up/arc1_similar_dataset_v_PushUps_g25_c02.avi,4.36,2,
+push-up,arc2_push-up_11.mp4,Videos/push-up/arc2_push-up_11.mp4,5.0,2,Front angle.Video ends before completion of 3rd rep.
+push-up,arc2_push-up_12.mp4,Videos/push-up/arc2_push-up_12.mp4,5.0,2,Front angle
+push-up,arc2_push-up_13.mp4,Videos/push-up/arc2_push-up_13.mp4,5.0,2,Front Angle
+push-up,arc2_push-up_14.mp4,Videos/push-up/arc2_push-up_14.mp4,5.0,2,Front angle. Diamond Pushup
+push-up,arc2_push-up_15.mp4,Videos/push-up/arc2_push-up_15.mp4,2.77,0,
+push-up,arc2_push-up_17.mp4,Videos/push-up/arc2_push-up_17.mp4,3.04,1,Closeup
+push-up,arc2_push-up_18.mp4,Videos/push-up/arc2_push-up_18.mp4,2.34,0,Back above camera angle.
+push-up,arc2_push-up_19.mp4,Videos/push-up/arc2_push-up_19.mp4,5.0,1,
+push-up,arc2_push-up_22.mp4,Videos/push-up/arc2_push-up_22.mp4,5.0,1,Video starts and ends abruptly
+push-up,arc2_push-up_28.mp4,Videos/push-up/arc2_push-up_28.mp4,3.77,3,Front Angle
+push-up,arc2_push-up_30.mp4,Videos/push-up/arc2_push-up_30.mp4,4.67,4,Front angle
+push-up,arc2_push-up_31.mp4,Videos/push-up/arc2_push-up_31.mp4,5.0,4,Front Angle
+push-up,arc2_push-up_32.mp4,Videos/push-up/arc2_push-up_32.mp4,5.0,4,Moving camera
+push-up,arc2_push-up_33.mp4,Videos/push-up/arc2_push-up_33.mp4,4.87,5,
+push-up,arc2_push-up_34.mp4,Videos/push-up/arc2_push-up_34.mp4,3.8,3,Front angle
+push-up,arc2_push-up_35.mp4,Videos/push-up/arc2_push-up_35.mp4,5.0,4,
+push-up,arc2_push-up_37.mp4,Videos/push-up/arc2_push-up_37.mp4,4.97,4,Front angle
+push-up,arc2_push-up_42.mp4,Videos/push-up/arc2_push-up_42.mp4,5.0,2,
+push-up,arc2_push-up_46.mp4,Videos/push-up/arc2_push-up_46.mp4,5.0,1,
+push-up,arc2_push-up_47.mp4,Videos/push-up/arc2_push-up_47.mp4,3.5,1,
+push-up,arc2_push-up_48.mp4,Videos/push-up/arc2_push-up_48.mp4,5.0,2,Moving camera
+push-up,arc2_push-up_49.mp4,Videos/push-up/arc2_push-up_49.mp4,5.0,2,
+push-up,arc2_push-up_50.mp4,Videos/push-up/arc2_push-up_50.mp4,5.0,2,
+push-up,arc2_push-up_51.mp4,Videos/push-up/arc2_push-up_51.mp4,4.44,3,Camera cuts to different angle and fast moving pushups after 1st rep. 2 videos in one.
+push-up,arc2_push-up_53.mp4,Videos/push-up/arc2_push-up_53.mp4,22.12,12,Three different types of pushups in one video
+barbell_biceps_curl,arc1_final_kaggle_with_additional_video_barbell_biceps_curl_1.mp4,Videos/barbell_biceps_curl/arc1_final_kaggle_with_additional_video_barbell_biceps_curl_1.mp4,3.8,0,Incomplete Video.
+barbell_biceps_curl,arc1_final_kaggle_with_additional_video_barbell_biceps_curl_10.mp4,Videos/barbell_biceps_curl/arc1_final_kaggle_with_additional_video_barbell_biceps_curl_10.mp4,1.97,1,Front angle
+barbell_biceps_curl,arc1_final_kaggle_with_additional_video_barbell_biceps_curl_11.mp4,Videos/barbell_biceps_curl/arc1_final_kaggle_with_additional_video_barbell_biceps_curl_11.mp4,6.7,3,
+barbell_biceps_curl,arc1_final_kaggle_with_additional_video_barbell_biceps_curl_12.mp4,Videos/barbell_biceps_curl/arc1_final_kaggle_with_additional_video_barbell_biceps_curl_12.mp4,4.1,1,Front angle
+barbell_biceps_curl,arc1_final_kaggle_with_additional_video_barbell_biceps_curl_13.mp4,Videos/barbell_biceps_curl/arc1_final_kaggle_with_additional_video_barbell_biceps_curl_13.mp4,4.7,1,Front angle
+barbell_biceps_curl,arc1_final_kaggle_with_additional_video_barbell_biceps_curl_14.mp4,Videos/barbell_biceps_curl/arc1_final_kaggle_with_additional_video_barbell_biceps_curl_14.mp4,2.3,1,
+barbell_biceps_curl,arc1_final_kaggle_with_additional_video_barbell_biceps_curl_15.mp4,Videos/barbell_biceps_curl/arc1_final_kaggle_with_additional_video_barbell_biceps_curl_15.mp4,2.17,1,
+barbell_biceps_curl,arc1_final_kaggle_with_additional_video_barbell_biceps_curl_16.mp4,Videos/barbell_biceps_curl/arc1_final_kaggle_with_additional_video_barbell_biceps_curl_16.mp4,2.1,1,
+barbell_biceps_curl,arc1_final_kaggle_with_additional_video_barbell_biceps_curl_17.mp4,Videos/barbell_biceps_curl/arc1_final_kaggle_with_additional_video_barbell_biceps_curl_17.mp4,2.04,0,Incomplete Video.
+barbell_biceps_curl,arc1_final_kaggle_with_additional_video_barbell_biceps_curl_18.mp4,Videos/barbell_biceps_curl/arc1_final_kaggle_with_additional_video_barbell_biceps_curl_18.mp4,7.63,3,Front angle
+barbell_biceps_curl,arc1_final_kaggle_with_additional_video_barbell_biceps_curl_19.mp4,Videos/barbell_biceps_curl/arc1_final_kaggle_with_additional_video_barbell_biceps_curl_19.mp4,14.05,4,Front angle
+barbell_biceps_curl,arc1_final_kaggle_with_additional_video_barbell_biceps_curl_2.mp4,Videos/barbell_biceps_curl/arc1_final_kaggle_with_additional_video_barbell_biceps_curl_2.mp4,2.57,1,
+barbell_biceps_curl,arc1_final_kaggle_with_additional_video_barbell_biceps_curl_20.mp4,Videos/barbell_biceps_curl/arc1_final_kaggle_with_additional_video_barbell_biceps_curl_20.mp4,3.92,1,
+barbell_biceps_curl,arc1_final_kaggle_with_additional_video_barbell_biceps_curl_21.mp4,Videos/barbell_biceps_curl/arc1_final_kaggle_with_additional_video_barbell_biceps_curl_21.mp4,5.0,1,
+barbell_biceps_curl,arc1_final_kaggle_with_additional_video_barbell_biceps_curl_22.mp4,Videos/barbell_biceps_curl/arc1_final_kaggle_with_additional_video_barbell_biceps_curl_22.mp4,2.92,1,
+barbell_biceps_curl,arc1_final_kaggle_with_additional_video_barbell_biceps_curl_23.mp4,Videos/barbell_biceps_curl/arc1_final_kaggle_with_additional_video_barbell_biceps_curl_23.mp4,2.34,1,
+barbell_biceps_curl,arc1_final_kaggle_with_additional_video_barbell_biceps_curl_24.mp4,Videos/barbell_biceps_curl/arc1_final_kaggle_with_additional_video_barbell_biceps_curl_24.mp4,2.8,1,
+barbell_biceps_curl,arc1_final_kaggle_with_additional_video_barbell_biceps_curl_25.mp4,Videos/barbell_biceps_curl/arc1_final_kaggle_with_additional_video_barbell_biceps_curl_25.mp4,2.6,1,
+barbell_biceps_curl,arc1_final_kaggle_with_additional_video_barbell_biceps_curl_3.mp4,Videos/barbell_biceps_curl/arc1_final_kaggle_with_additional_video_barbell_biceps_curl_3.mp4,2.44,1,
+barbell_biceps_curl,arc1_final_kaggle_with_additional_video_barbell_biceps_curl_4.mp4,Videos/barbell_biceps_curl/arc1_final_kaggle_with_additional_video_barbell_biceps_curl_4.mp4,1.77,0,Incomplete Video.
+barbell_biceps_curl,arc1_final_kaggle_with_additional_video_barbell_biceps_curl_5.mp4,Videos/barbell_biceps_curl/arc1_final_kaggle_with_additional_video_barbell_biceps_curl_5.mp4,2.74,0,Incomplete Video.
+barbell_biceps_curl,arc1_final_kaggle_with_additional_video_barbell_biceps_curl_6.mp4,Videos/barbell_biceps_curl/arc1_final_kaggle_with_additional_video_barbell_biceps_curl_6.mp4,2.67,1,Front angle
+barbell_biceps_curl,arc1_final_kaggle_with_additional_video_barbell_biceps_curl_7.mp4,Videos/barbell_biceps_curl/arc1_final_kaggle_with_additional_video_barbell_biceps_curl_7.mp4,4.6,1,Incomplete start
+barbell_biceps_curl,arc1_final_kaggle_with_additional_video_barbell_biceps_curl_8.mp4,Videos/barbell_biceps_curl/arc1_final_kaggle_with_additional_video_barbell_biceps_curl_8.mp4,3.27,0,Incomplete Video.
+barbell_biceps_curl,arc1_final_kaggle_with_additional_video_barbell_biceps_curl_9.mp4,Videos/barbell_biceps_curl/arc1_final_kaggle_with_additional_video_barbell_biceps_curl_9.mp4,2.4,1,
+barbell_biceps_curl,arc1_my_test_video_1_barbell_biceps_curl_1.mp4,Videos/barbell_biceps_curl/arc1_my_test_video_1_barbell_biceps_curl_1.mp4,19.23,11,
+barbell_biceps_curl,arc1_my_test_video_1_barbell_biceps_curl_2.mp4,Videos/barbell_biceps_curl/arc1_my_test_video_1_barbell_biceps_curl_2.mp4,12.5,8,
+barbell_biceps_curl,arc1_my_test_video_1_barbell_biceps_curl_3.mp4,Videos/barbell_biceps_curl/arc1_my_test_video_1_barbell_biceps_curl_3.mp4,13.73,8,Front angle
+barbell_biceps_curl,arc1_my_test_video_1_barbell_biceps_curl_4.mp4,Videos/barbell_biceps_curl/arc1_my_test_video_1_barbell_biceps_curl_4.mp4,7.23,4,Front angle with a baggy jacket
+barbell_biceps_curl,arc1_similar_dataset_0d402adf-578c-4c26-ba50-3b28a6f0e648.mp4,Videos/barbell_biceps_curl/arc1_similar_dataset_0d402adf-578c-4c26-ba50-3b28a6f0e648.mp4,10.76,3,
+barbell_biceps_curl,arc1_similar_dataset_1a3e6f0d-fb99-4e4d-b80f-831c7f38aca9.mp4,Videos/barbell_biceps_curl/arc1_similar_dataset_1a3e6f0d-fb99-4e4d-b80f-831c7f38aca9.mp4,10.01,2,Video inconsistent
+barbell_biceps_curl,arc1_similar_dataset_27d82bac-ce83-4f91-a381-c11dd0bf6932.mp4,Videos/barbell_biceps_curl/arc1_similar_dataset_27d82bac-ce83-4f91-a381-c11dd0bf6932.mp4,10.0,2,Video inconsistent
+barbell_biceps_curl,arc1_similar_dataset_3f034ee8-792b-4646-8746-c0dbbf6e5b50.mp4,Videos/barbell_biceps_curl/arc1_similar_dataset_3f034ee8-792b-4646-8746-c0dbbf6e5b50.mp4,10.01,3,Front angle
+barbell_biceps_curl,arc1_similar_dataset_72fb4cb4-ecad-44df-a0e1-5e4f4b581f9e.mp4,Videos/barbell_biceps_curl/arc1_similar_dataset_72fb4cb4-ecad-44df-a0e1-5e4f4b581f9e.mp4,8.01,2,Video inconsistent
+barbell_biceps_curl,arc1_similar_dataset_89b99b36-5491-4bc6-952c-53a67b889b62.mp4,Videos/barbell_biceps_curl/arc1_similar_dataset_89b99b36-5491-4bc6-952c-53a67b889b62.mp4,10.01,2,
+barbell_biceps_curl,arc1_similar_dataset_ac696ae8-e815-4f5f-bd32-864e2477e3ce.mp4,Videos/barbell_biceps_curl/arc1_similar_dataset_ac696ae8-e815-4f5f-bd32-864e2477e3ce.mp4,8.0,2,
+barbell_biceps_curl,arc1_similar_dataset_f20150e2-f6e1-41e9-ab13-9d1e42599bba.mp4,Videos/barbell_biceps_curl/arc1_similar_dataset_f20150e2-f6e1-41e9-ab13-9d1e42599bba.mp4,10.0,1,Video inconsistent
+barbell_biceps_curl,arc1_similar_dataset_f32c33d2-e298-499a-a61e-7236d6f1ba64.mp4,Videos/barbell_biceps_curl/arc1_similar_dataset_f32c33d2-e298-499a-a61e-7236d6f1ba64.mp4,9.0,3,Front angle
+barbell_biceps_curl,arc1_similar_dataset_f9d9d0bb-7286-4074-8d3c-e73d4072ad79.mp4,Videos/barbell_biceps_curl/arc1_similar_dataset_f9d9d0bb-7286-4074-8d3c-e73d4072ad79.mp4,10.05,0,Incomplete Video.
+barbell_biceps_curl,arc2_barbell_biceps_curl_10.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_10.mp4,3.14,0,Incomplete video
+barbell_biceps_curl,arc2_barbell_biceps_curl_11.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_11.mp4,2.5,1,
+barbell_biceps_curl,arc2_barbell_biceps_curl_13.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_13.mp4,4.07,1,
+barbell_biceps_curl,arc2_barbell_biceps_curl_18.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_18.mp4,2.24,1,
+barbell_biceps_curl,arc2_barbell_biceps_curl_19.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_19.mp4,2.0,1,
+barbell_biceps_curl,arc2_barbell_biceps_curl_20.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_20.mp4,1.87,1,Closeup
+barbell_biceps_curl,arc2_barbell_biceps_curl_21.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_21.mp4,1.94,1,Closeup
+barbell_biceps_curl,arc2_barbell_biceps_curl_22.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_22.mp4,1.94,1,Closeup
+barbell_biceps_curl,arc2_barbell_biceps_curl_27.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_27.mp4,1.84,1,Front angle
+barbell_biceps_curl,arc2_barbell_biceps_curl_28.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_28.mp4,2.04,1,Closeup
+barbell_biceps_curl,arc2_barbell_biceps_curl_29.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_29.mp4,1.94,1,Closeup
+barbell_biceps_curl,arc2_barbell_biceps_curl_30.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_30.mp4,1.63,1,Incomplete video
+barbell_biceps_curl,arc2_barbell_biceps_curl_31.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_31.mp4,2.17,1,
+barbell_biceps_curl,arc2_barbell_biceps_curl_32.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_32.mp4,2.17,1,
+barbell_biceps_curl,arc2_barbell_biceps_curl_33.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_33.mp4,2.07,1,
+barbell_biceps_curl,arc2_barbell_biceps_curl_34.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_34.mp4,2.1,1,
+barbell_biceps_curl,arc2_barbell_biceps_curl_35.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_35.mp4,1.94,1,
+barbell_biceps_curl,arc2_barbell_biceps_curl_36.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_36.mp4,1.67,1,
+barbell_biceps_curl,arc2_barbell_biceps_curl_38.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_38.mp4,1.97,1,Front angle
+barbell_biceps_curl,arc2_barbell_biceps_curl_39.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_39.mp4,1.8,1,Front angle
+barbell_biceps_curl,arc2_barbell_biceps_curl_41.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_41.mp4,6.7,1,Closeup moving camera
+barbell_biceps_curl,arc2_barbell_biceps_curl_43.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_43.mp4,4.4,1,
+barbell_biceps_curl,arc2_barbell_biceps_curl_49.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_49.mp4,3.0,1,Rep start incomplete
+barbell_biceps_curl,arc2_barbell_biceps_curl_51.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_51.mp4,9.41,3,Close front angle
+barbell_biceps_curl,arc2_barbell_biceps_curl_52.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_52.mp4,12.41,4,Closegrip front angle
+barbell_biceps_curl,arc2_barbell_biceps_curl_53.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_53.mp4,5.87,3,
+barbell_biceps_curl,arc2_barbell_biceps_curl_54.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_54.mp4,4.4,3,Front angle
+barbell_biceps_curl,arc2_barbell_biceps_curl_55.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_55.mp4,4.9,2,Front angle
+barbell_biceps_curl,arc2_barbell_biceps_curl_56.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_56.mp4,7.11,2,Blurry video
+barbell_biceps_curl,arc2_barbell_biceps_curl_57.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_57.mp4,7.81,2,Back angle
+barbell_biceps_curl,arc2_barbell_biceps_curl_58.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_58.mp4,5.41,2,Back angle. Arms not properly visible.
+barbell_biceps_curl,arc2_barbell_biceps_curl_59.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_59.mp4,6.47,3,Back angle
+barbell_biceps_curl,arc2_barbell_biceps_curl_6.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_6.mp4,4.1,1,Right side back angle
+barbell_biceps_curl,arc2_barbell_biceps_curl_60.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_60.mp4,8.21,3,Back angle
+barbell_biceps_curl,arc2_barbell_biceps_curl_61.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_61.mp4,2.92,1,
+barbell_biceps_curl,arc2_barbell_biceps_curl_62.mp4,Videos/barbell_biceps_curl/arc2_barbell_biceps_curl_62.mp4,4.09,1,
+hammer_curl,arc1_final_kaggle_with_additional_video_hammer_curl_1.MOV,Videos/hammer_curl/arc1_final_kaggle_with_additional_video_hammer_curl_1.MOV,13.14,5,90 degree angle - left side
+hammer_curl,arc1_final_kaggle_with_additional_video_hammer_curl_10.mp4,Videos/hammer_curl/arc1_final_kaggle_with_additional_video_hammer_curl_10.mp4,2.8,0,Half rep recorded
+hammer_curl,arc1_final_kaggle_with_additional_video_hammer_curl_12.mp4,Videos/hammer_curl/arc1_final_kaggle_with_additional_video_hammer_curl_12.mp4,3.1,1,"45 degree angle, 1st rep half recorded so not counted"
+hammer_curl,arc1_final_kaggle_with_additional_video_hammer_curl_13.mp4,Videos/hammer_curl/arc1_final_kaggle_with_additional_video_hammer_curl_13.mp4,9.7,3,"45 degree angle,Starting rep is half recorded so not counted"
+hammer_curl,arc1_final_kaggle_with_additional_video_hammer_curl_14.mp4,Videos/hammer_curl/arc1_final_kaggle_with_additional_video_hammer_curl_14.mp4,1.7,0,Half recorded
+hammer_curl,arc1_final_kaggle_with_additional_video_hammer_curl_15.mp4,Videos/hammer_curl/arc1_final_kaggle_with_additional_video_hammer_curl_15.mp4,3.8,2,One hand at a time - 1 rep each hand.
+hammer_curl,arc1_final_kaggle_with_additional_video_hammer_curl_16.mp4,Videos/hammer_curl/arc1_final_kaggle_with_additional_video_hammer_curl_16.mp4,10.1,5,One hand at a time - 3 rep right hand and 2 rep left hand.
+hammer_curl,arc1_final_kaggle_with_additional_video_hammer_curl_17.mp4,Videos/hammer_curl/arc1_final_kaggle_with_additional_video_hammer_curl_17.mp4,10.78,5,One hand at a time - 2 rep right hand and 3 rep left hand.
+hammer_curl,arc1_final_kaggle_with_additional_video_hammer_curl_18.mp4,Videos/hammer_curl/arc1_final_kaggle_with_additional_video_hammer_curl_18.mp4,3.1,1,One hand at a time - 1 rep left hand and half of right
+hammer_curl,arc1_final_kaggle_with_additional_video_hammer_curl_19.mp4,Videos/hammer_curl/arc1_final_kaggle_with_additional_video_hammer_curl_19.mp4,10.51,4,One hand at a time - 2 rep right hand and 2 rep left hand. (First and last rep are half recorded so not counted for each hand)
+hammer_curl,arc1_final_kaggle_with_additional_video_hammer_curl_2.MOV,Videos/hammer_curl/arc1_final_kaggle_with_additional_video_hammer_curl_2.MOV,12.71,4,90 degree angle - left side - moving camera
+hammer_curl,arc1_final_kaggle_with_additional_video_hammer_curl_3.MOV,Videos/hammer_curl/arc1_final_kaggle_with_additional_video_hammer_curl_3.MOV,16.38,4,"Side angle, starting has picking up dumbbells and ending has keeping it down, multiple people in background"
+hammer_curl,arc1_final_kaggle_with_additional_video_hammer_curl_4.MOV,Videos/hammer_curl/arc1_final_kaggle_with_additional_video_hammer_curl_4.MOV,14.65,4,"Front angle, multiple people in background"
+hammer_curl,arc1_final_kaggle_with_additional_video_hammer_curl_5.MOV,Videos/hammer_curl/arc1_final_kaggle_with_additional_video_hammer_curl_5.MOV,14.35,5,Side angle
+hammer_curl,arc1_final_kaggle_with_additional_video_hammer_curl_6.MOV,Videos/hammer_curl/arc1_final_kaggle_with_additional_video_hammer_curl_6.MOV,12.21,4,Side angle
+hammer_curl,arc1_final_kaggle_with_additional_video_hammer_curl_7.MOV,Videos/hammer_curl/arc1_final_kaggle_with_additional_video_hammer_curl_7.MOV,16.01,4,"Front angle slowly moving to around 15 degrees, multiple people in background"
+hammer_curl,arc1_final_kaggle_with_additional_video_hammer_curl_8.mp4,Videos/hammer_curl/arc1_final_kaggle_with_additional_video_hammer_curl_8.mp4,8.3,2,Rotating zoomed in camera from front to side angle
+hammer_curl,arc1_final_kaggle_with_additional_video_hammer_curl_9.mp4,Videos/hammer_curl/arc1_final_kaggle_with_additional_video_hammer_curl_9.mp4,4.7,1,Zoomed in side angle
+shoulder_press,arc1_my_test_video_1_shoulder_press_1.mp4,Videos/shoulder_press/arc1_my_test_video_1_shoulder_press_1.mp4,14.63,9,Front angle
+shoulder_press,arc2_shoulder_press_1.MOV,Videos/shoulder_press/arc2_shoulder_press_1.MOV,17.12,6,45 degree angle on a shoulder press machine with camera a bit above head.
+shoulder_press,arc1_final_kaggle_with_additional_video_shoulder_press_2.mp4,Videos/shoulder_press/arc1_final_kaggle_with_additional_video_shoulder_press_2.mp4,9.32,4,Side - back angle with a little zoomed in.
+shoulder_press,arc1_my_test_video_1_shoulder_press_2.mp4,Videos/shoulder_press/arc1_my_test_video_1_shoulder_press_2.mp4,11.77,6,Front angle
+shoulder_press,arc1_final_kaggle_with_additional_video_shoulder_press_3.MOV,Videos/shoulder_press/arc1_final_kaggle_with_additional_video_shoulder_press_3.MOV,13.21,4,Front angle with shoulder press machine.
+shoulder_press,arc1_my_test_video_1_shoulder_press_3.mp4,Videos/shoulder_press/arc1_my_test_video_1_shoulder_press_3.mp4,16.37,10,45 degree angle
+shoulder_press,arc1_final_kaggle_with_additional_video_shoulder_press_4.MOV,Videos/shoulder_press/arc1_final_kaggle_with_additional_video_shoulder_press_4.MOV,14.01,4,"Side to front rotating angle with last rep having zoomed in (elbow out of frame), shoulder press machine"
+shoulder_press,arc1_my_test_video_1_shoulder_press_4.mp4,Videos/shoulder_press/arc1_my_test_video_1_shoulder_press_4.mp4,14.97,10,10 degree angle (front angle)
+shoulder_press,arc1_final_kaggle_with_additional_video_shoulder_press_5.mp4,Videos/shoulder_press/arc1_final_kaggle_with_additional_video_shoulder_press_5.mp4,12.17,3,"45 degree angle on a shoulder press machine,Last rep is half recorded so not counted"
+shoulder_press,arc1_final_kaggle_with_additional_video_shoulder_press_6.mp4,Videos/shoulder_press/arc1_final_kaggle_with_additional_video_shoulder_press_6.mp4,5.21,2,"Front angle, shoulder press machine"
+shoulder_press,arc1_final_kaggle_with_additional_video_shoulder_press_7.mp4,Videos/shoulder_press/arc1_final_kaggle_with_additional_video_shoulder_press_7.mp4,10.51,5,"Front angle, shoulder press machine"
+shoulder_press,arc1_final_kaggle_with_additional_video_shoulder_press_8.mp4,Videos/shoulder_press/arc1_final_kaggle_with_additional_video_shoulder_press_8.mp4,4.72,2,45 degree angle on a shoulder press machine
+shoulder_press,arc1_final_kaggle_with_additional_video_shoulder_press_9.mp4,Videos/shoulder_press/arc1_final_kaggle_with_additional_video_shoulder_press_9.mp4,10.8,3,"Front angle, shoulder press machine"
+shoulder_press,arc1_final_kaggle_with_additional_video_shoulder_press_10.mp4,Videos/shoulder_press/arc1_final_kaggle_with_additional_video_shoulder_press_10.mp4,12.81,4,"Front angle, shoulder press machine"
+shoulder_press,arc1_final_kaggle_with_additional_video_shoulder_press_11.mp4,Videos/shoulder_press/arc1_final_kaggle_with_additional_video_shoulder_press_11.mp4,7.01,4,Front to side rotating camera on shoulder press machine
+shoulder_press,arc1_final_kaggle_with_additional_video_shoulder_press_12.mp4,Videos/shoulder_press/arc1_final_kaggle_with_additional_video_shoulder_press_12.mp4,9.08,3,"Front angle, shoulder press machine"
+shoulder_press,arc1_final_kaggle_with_additional_video_shoulder_press_13.mp4,Videos/shoulder_press/arc1_final_kaggle_with_additional_video_shoulder_press_13.mp4,6.81,5,45 degree angle on a shoulder press machine
+shoulder_press,arc1_final_kaggle_with_additional_video_shoulder_press_14.mp4,Videos/shoulder_press/arc1_final_kaggle_with_additional_video_shoulder_press_14.mp4,6.11,4,45 degree angle on a shoulder press machine
+shoulder_press,arc1_final_kaggle_with_additional_video_shoulder_press_15.mp4,Videos/shoulder_press/arc1_final_kaggle_with_additional_video_shoulder_press_15.mp4,9.6,3,"45 degree angle on a shoulder press machine, 1st rep half recorded so not counted"
+shoulder_press,arc1_final_kaggle_with_additional_video_shoulder_press_16.mp4,Videos/shoulder_press/arc1_final_kaggle_with_additional_video_shoulder_press_16.mp4,10.4,3,"45 degree angle on a shoulder press machine, 1st and last rep. half recorded so not counted"
+shoulder_press,arc1_final_kaggle_with_additional_video_shoulder_press_17.mp4,Videos/shoulder_press/arc1_final_kaggle_with_additional_video_shoulder_press_17.mp4,10.39,3,45 degree angle on a shoulder press machine
+shoulder_press,arc1_final_kaggle_with_additional_video_shoulder_press_19.MOV,Videos/shoulder_press/arc1_final_kaggle_with_additional_video_shoulder_press_19.MOV,19.52,5,Front to 45 degree angle rotating camera on a shoulder press machine 
+shoulder_press,arc1_final_kaggle_with_additional_video_shoulder_press_21.mov,Videos/shoulder_press/arc1_final_kaggle_with_additional_video_shoulder_press_21.mov,20.12,5,"90 degree angle, Arnold press (not a proper shoulder press)"
+shoulder_press,arc1_final_kaggle_with_additional_video_shoulder_press_24.mp4,Videos/shoulder_press/arc1_final_kaggle_with_additional_video_shoulder_press_24.mp4,19.68,10,Starting and ending has picking up and keeping down the dumbbells
+shoulder_press,arc1_final_kaggle_with_additional_video_shoulder_press_25.mp4,Videos/shoulder_press/arc1_final_kaggle_with_additional_video_shoulder_press_25.mp4,9.32,3,Front angle
+shoulder_press,arc1_similar_dataset_17496a37-c1f7-4105-9c07-e7cfbca06106.mp4,Videos/shoulder_press/arc1_similar_dataset_17496a37-c1f7-4105-9c07-e7cfbca06106.mp4,9.01,4,2 Cuts in video from front to zoomed in 45 degree angle on shoulder press machine
+shoulder_press,arc1_similar_dataset_237de26b-2b1e-4f62-9844-b30fc9860c72.mp4,Videos/shoulder_press/arc1_similar_dataset_237de26b-2b1e-4f62-9844-b30fc9860c72.mp4,10.03,5,"Front angle, shoulder press machine, last rep half recorded so not counted"
+shoulder_press,arc1_similar_dataset_30fe126e-0985-48af-813f-65c30d49913d.mp4,Videos/shoulder_press/arc1_similar_dataset_30fe126e-0985-48af-813f-65c30d49913d.mp4,9.6,3,"45 degree angle on a shoulder press machine, 1st rep half recorded so not counted"
+shoulder_press,arc1_similar_dataset_51f72e68-ec28-4272-b15c-45586c244398.mp4,Videos/shoulder_press/arc1_similar_dataset_51f72e68-ec28-4272-b15c-45586c244398.mp4,10.4,3,"45 degree angle on a shoulder press machine, 1st and last rep. half recorded so not counted"
+shoulder_press,arc1_similar_dataset_555859e7-8a16-4494-8dca-dff27cbdd9c8.mp4,Videos/shoulder_press/arc1_similar_dataset_555859e7-8a16-4494-8dca-dff27cbdd9c8.mp4,9.99,4,"Front angle, shoulder press machine, comparatively short reps. "
+shoulder_press,arc1_similar_dataset_6397dc79-5ba3-4244-a426-c24d6e7cfeb0.mp4,Videos/shoulder_press/arc1_similar_dataset_6397dc79-5ba3-4244-a426-c24d6e7cfeb0.mp4,10.01,1,Multiple cuts in video from front to zoomed in 45 degree angle on shoulder press machine
+shoulder_press,arc1_similar_dataset_a34f39ab-161f-41fe-853d-3eeea21073bd.mp4,Videos/shoulder_press/arc1_similar_dataset_a34f39ab-161f-41fe-853d-3eeea21073bd.mp4,13.41,3,45 degree angle on a shoulder press machine
+shoulder_press,arc1_similar_dataset_b066cbc1-931a-4af5-b668-36e98e7091b6.mp4,Videos/shoulder_press/arc1_similar_dataset_b066cbc1-931a-4af5-b668-36e98e7091b6.mp4,12.58,4,Last rep camera fades out just near to finishing the rep. 45 degree angle on a shoulder press
+shoulder_press,arc1_similar_dataset_b8a72e6b-f7ad-406a-9aa5-a3df903ec40e.mp4,Videos/shoulder_press/arc1_similar_dataset_b8a72e6b-f7ad-406a-9aa5-a3df903ec40e.mp4,10.22,3,45 degree angle on a shoulder press machine
+shoulder_press,arc1_similar_dataset_f44ec93a-ce42-46a4-97f4-015bea952a00.mp4,Videos/shoulder_press/arc1_similar_dataset_f44ec93a-ce42-46a4-97f4-015bea952a00.mp4,12.0,3,"45 degree angle on a shoulder press machine, 1st and last rep half recorded so not counted"
+shoulder_press,arc1_similar_dataset_fc319e88-4be0-467e-9dfd-cb7b3512f3ed.mp4,Videos/shoulder_press/arc1_similar_dataset_fc319e88-4be0-467e-9dfd-cb7b3512f3ed.mp4,9.01,4,Almost 80 degree angle on a shoulder press machine. 

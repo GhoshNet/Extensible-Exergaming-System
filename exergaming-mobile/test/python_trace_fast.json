@@ -1,0 +1,122 @@
+[
+  {
+    "frame": 0,
+    "state": "IDLE",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 180.0,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 1,
+    "state": "IDLE",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 141.99593469062214,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 2,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 80.50406530937789,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 3,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 80.50406530937789,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 4,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 141.99593469062214,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 5,
+    "state": "UP",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 180.0,
+    "rejected_fast_reps": 1
+  },
+  {
+    "frame": 6,
+    "state": "UP",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 141.99593469062214,
+    "rejected_fast_reps": 1
+  },
+  {
+    "frame": 7,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 80.50406530937789,
+    "rejected_fast_reps": 1
+  },
+  {
+    "frame": 8,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 80.50406530937789,
+    "rejected_fast_reps": 1
+  },
+  {
+    "frame": 9,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 141.99593469062214,
+    "rejected_fast_reps": 1
+  },
+  {
+    "frame": 10,
+    "state": "UP",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 180.0,
+    "rejected_fast_reps": 2
+  },
+  {
+    "frame": 11,
+    "state": "UP",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 141.99593469062214,
+    "rejected_fast_reps": 2
+  },
+  {
+    "frame": 12,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 80.50406530937789,
+    "rejected_fast_reps": 2
+  },
+  {
+    "frame": 13,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 80.50406530937789,
+    "rejected_fast_reps": 2
+  },
+  {
+    "frame": 14,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 141.99593469062214,
+    "rejected_fast_reps": 2
+  }
+]

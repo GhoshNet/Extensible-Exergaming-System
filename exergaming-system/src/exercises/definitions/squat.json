@@ -1,0 +1,62 @@
+{
+  "name": "Squat",
+  "description": "Standard bodyweight squat. Measures knee flexion angle (hip-knee-ankle). Side-view camera recommended.",
+  "source": "hardcoded",
+  "camera_view": "side",
+  "fallback_mode": "bilateral",
+  "initial_state": "IDLE",
+  "angle_signals": [
+    {
+      "name": "knee_angle",
+      "landmarks": ["HIP", "KNEE", "ANKLE"],
+      "bilateral": true,
+      "importance": 1.0
+    }
+  ],
+  "ratio_signals": [],
+  "transitions": [
+    {
+      "from_states": ["IDLE", "UP"],
+      "to_state": "DOWN",
+      "conditions": [
+        {"signal": "knee_angle", "direction": "below", "threshold": 90}
+      ]
+    },
+    {
+      "from_states": ["DOWN"],
+      "to_state": "UP",
+      "conditions": [
+        {"signal": "knee_angle", "direction": "above", "threshold": 160}
+      ]
+    }
+  ],
+  "rep_complete_transition": ["DOWN", "UP"],
+  "form": {
+    "tracking": "min",
+    "during_state": "DOWN",
+    "tracked_signals": ["knee_angle"],
+    "levels": [
+      {
+        "rating": "excellent",
+        "operator": "all",
+        "conditions": [
+          {"signal": "knee_angle", "direction": "below", "threshold": 85}
+        ]
+      },
+      {
+        "rating": "good",
+        "operator": "all",
+        "conditions": [
+          {"signal": "knee_angle", "direction": "below", "threshold": 100}
+        ]
+      },
+      {
+        "rating": "fair",
+        "operator": "all",
+        "conditions": [
+          {"signal": "knee_angle", "direction": "below", "threshold": 110}
+        ]
+      }
+    ]
+  }
+}

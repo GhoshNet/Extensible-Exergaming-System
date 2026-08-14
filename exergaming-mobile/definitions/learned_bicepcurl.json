@@ -1,0 +1,106 @@
+{
+  "name": "BicepCurl",
+  "description": "Learned from demonstration. Primary signal: elbow_angle. Important signals: elbow_angle, arm_angle.",
+  "source": "learned",
+  "camera_view": "either",
+  "fallback_mode": "bilateral",
+  "initial_state": "IDLE",
+  "angle_signals": [
+    {
+      "name": "elbow_angle",
+      "landmarks": [
+        "SHOULDER",
+        "ELBOW",
+        "WRIST"
+      ],
+      "bilateral": true,
+      "importance": 1.0
+    },
+    {
+      "name": "arm_angle",
+      "landmarks": [
+        "HIP",
+        "SHOULDER",
+        "ELBOW"
+      ],
+      "bilateral": true,
+      "importance": 0.5
+    }
+  ],
+  "ratio_signals": [],
+  "transitions": [
+    {
+      "from_states": [
+        "IDLE",
+        "UP"
+      ],
+      "to_state": "DOWN",
+      "conditions": [
+        {
+          "signal": "elbow_angle",
+          "direction": "below",
+          "threshold": 93.6
+        }
+      ]
+    },
+    {
+      "from_states": [
+        "DOWN"
+      ],
+      "to_state": "UP",
+      "conditions": [
+        {
+          "signal": "elbow_angle",
+          "direction": "above",
+          "threshold": 149.8
+        }
+      ]
+    }
+  ],
+  "rep_complete_transition": [
+    "DOWN",
+    "UP"
+  ],
+  "form": {
+    "tracking": "min",
+    "during_state": "DOWN",
+    "tracked_signals": [
+      "elbow_angle"
+    ],
+    "levels": [
+      {
+        "rating": "excellent",
+        "operator": "all",
+        "conditions": [
+          {
+            "signal": "elbow_angle",
+            "direction": "below",
+            "threshold": 56.2
+          }
+        ]
+      },
+      {
+        "rating": "good",
+        "operator": "all",
+        "conditions": [
+          {
+            "signal": "elbow_angle",
+            "direction": "below",
+            "threshold": 81.1
+          }
+        ]
+      },
+      {
+        "rating": "fair",
+        "operator": "all",
+        "conditions": [
+          {
+            "signal": "elbow_angle",
+            "direction": "below",
+            "threshold": 106.1
+          }
+        ]
+      }
+    ]
+  }
+}

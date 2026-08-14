@@ -1,0 +1,112 @@
+{
+  "name": "ShoulderPress",
+  "description": "Learned from demonstration (ShoulderPressTraining_trimmed.mov). Primary signal: elbow_angle. Important signals: elbow_angle, arm_angle.",
+  "source": "learned",
+  "camera_view": "either",
+  "fallback_mode": "bilateral",
+  "initial_state": "IDLE",
+  "angle_signals": [
+    {
+      "name": "elbow_angle",
+      "landmarks": [
+        "SHOULDER",
+        "ELBOW",
+        "WRIST"
+      ],
+      "bilateral": true,
+      "importance": 1.0
+    },
+    {
+      "name": "arm_angle",
+      "landmarks": [
+        "HIP",
+        "SHOULDER",
+        "ELBOW"
+      ],
+      "bilateral": true,
+      "importance": 0.5
+    }
+  ],
+  "ratio_signals": [],
+  "transitions": [
+    {
+      "from_states": [
+        "IDLE",
+        "DOWN"
+      ],
+      "to_state": "UP",
+      "conditions": [
+        {
+          "signal": "elbow_angle",
+          "direction": "above",
+          "threshold": 132.2
+        }
+      ]
+    },
+    {
+      "from_states": [
+        "UP"
+      ],
+      "to_state": "DOWN",
+      "conditions": [
+        {
+          "signal": "elbow_angle",
+          "direction": "below",
+          "threshold": 68.6
+        }
+      ]
+    }
+  ],
+  "rep_complete_transition": [
+    "UP",
+    "DOWN"
+  ],
+  "form": {
+    "tracking": "max",
+    "during_state": "UP",
+    "tracked_signals": [
+      "elbow_angle"
+    ],
+    "levels": [
+      {
+        "rating": "excellent",
+        "operator": "all",
+        "conditions": [
+          {
+            "signal": "elbow_angle",
+            "direction": "above",
+            "threshold": 136.7
+          }
+        ]
+      },
+      {
+        "rating": "good",
+        "operator": "all",
+        "conditions": [
+          {
+            "signal": "elbow_angle",
+            "direction": "above",
+            "threshold": 118.6
+          }
+        ]
+      },
+      {
+        "rating": "fair",
+        "operator": "all",
+        "conditions": [
+          {
+            "signal": "elbow_angle",
+            "direction": "above",
+            "threshold": 100.4
+          }
+        ]
+      }
+    ]
+  },
+  "prompts": {
+    "resting": "Extend your elbow up to begin the rep",
+    "tracked": "Bend your elbow down to complete the rep",
+    "almost_there": "Extend your elbow a little further",
+    "over_limit": ""
+  }
+}

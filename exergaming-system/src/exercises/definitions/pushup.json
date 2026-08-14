@@ -1,0 +1,62 @@
+{
+  "name": "Push-up",
+  "description": "Standard push-up. Measures elbow flexion angle (shoulder-elbow-wrist). Side-view camera recommended.",
+  "source": "hardcoded",
+  "camera_view": "side",
+  "fallback_mode": "bilateral",
+  "initial_state": "IDLE",
+  "angle_signals": [
+    {
+      "name": "elbow_angle",
+      "landmarks": ["SHOULDER", "ELBOW", "WRIST"],
+      "bilateral": true,
+      "importance": 1.0
+    }
+  ],
+  "ratio_signals": [],
+  "transitions": [
+    {
+      "from_states": ["IDLE", "UP"],
+      "to_state": "DOWN",
+      "conditions": [
+        {"signal": "elbow_angle", "direction": "below", "threshold": 110}
+      ]
+    },
+    {
+      "from_states": ["DOWN"],
+      "to_state": "UP",
+      "conditions": [
+        {"signal": "elbow_angle", "direction": "above", "threshold": 160}
+      ]
+    }
+  ],
+  "rep_complete_transition": ["DOWN", "UP"],
+  "form": {
+    "tracking": "min",
+    "during_state": "DOWN",
+    "tracked_signals": ["elbow_angle"],
+    "levels": [
+      {
+        "rating": "excellent",
+        "operator": "all",
+        "conditions": [
+          {"signal": "elbow_angle", "direction": "below", "threshold": 70}
+        ]
+      },
+      {
+        "rating": "good",
+        "operator": "all",
+        "conditions": [
+          {"signal": "elbow_angle", "direction": "below", "threshold": 110}
+        ]
+      },
+      {
+        "rating": "fair",
+        "operator": "all",
+        "conditions": [
+          {"signal": "elbow_angle", "direction": "below", "threshold": 130}
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,962 @@
+[
+  {
+    "frame": 0,
+    "state": "IDLE",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 180.0,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 1,
+    "state": "IDLE",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 179.32285873273227,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 2,
+    "state": "IDLE",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 177.30810839623334,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 3,
+    "state": "IDLE",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 174.0053588303602,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 4,
+    "state": "IDLE",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 169.4959346906221,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 5,
+    "state": "IDLE",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 163.89087296526012,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 6,
+    "state": "IDLE",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 157.328188876086,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 7,
+    "state": "IDLE",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 149.96947748567507,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 8,
+    "state": "IDLE",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 141.99593469062214,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 9,
+    "state": "IDLE",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 133.6038955772127,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 10,
+    "state": "IDLE",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 125.00000000000001,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 11,
+    "state": "IDLE",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 116.39610442278729,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 12,
+    "state": "IDLE",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 108.00406530937789,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 13,
+    "state": "IDLE",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 100.03052251432493,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 14,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 92.67181112391397,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 15,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 86.10912703473988,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 16,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 80.50406530937789,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 17,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 75.99464116963978,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 18,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 72.69189160376655,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 19,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 70.67714126726742,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 20,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 70.0,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 21,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 70.67714126726742,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 22,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 72.69189160376655,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 23,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 75.99464116963975,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 24,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 80.50406530937789,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 25,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 86.10912703473987,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 26,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 92.67181112391397,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 27,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 100.03052251432491,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 28,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 108.00406530937789,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 29,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 116.39610442278729,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 30,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 124.99999999999999,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 31,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 133.6038955772127,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 32,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 141.99593469062214,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 33,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 149.96947748567507,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 34,
+    "state": "DOWN",
+    "rep_count": 0,
+    "form": "good",
+    "knee_angle": 157.328188876086,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 35,
+    "state": "UP",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 163.89087296526012,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 36,
+    "state": "UP",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 169.4959346906221,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 37,
+    "state": "UP",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 174.0053588303602,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 38,
+    "state": "UP",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 177.30810839623334,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 39,
+    "state": "UP",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 179.32285873273227,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 40,
+    "state": "UP",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 180.0,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 41,
+    "state": "UP",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 179.32285873273227,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 42,
+    "state": "UP",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 177.30810839623334,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 43,
+    "state": "UP",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 174.0053588303602,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 44,
+    "state": "UP",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 169.4959346906221,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 45,
+    "state": "UP",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 163.89087296526012,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 46,
+    "state": "UP",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 157.328188876086,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 47,
+    "state": "UP",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 149.96947748567507,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 48,
+    "state": "UP",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 141.99593469062214,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 49,
+    "state": "UP",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 133.6038955772127,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 50,
+    "state": "UP",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 125.00000000000001,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 51,
+    "state": "UP",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 116.39610442278729,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 52,
+    "state": "UP",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 108.00406530937789,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 53,
+    "state": "UP",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 100.03052251432493,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 54,
+    "state": "DOWN",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 92.67181112391397,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 55,
+    "state": "DOWN",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 86.10912703473988,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 56,
+    "state": "DOWN",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 80.50406530937789,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 57,
+    "state": "DOWN",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 75.99464116963978,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 58,
+    "state": "DOWN",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 72.69189160376655,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 59,
+    "state": "DOWN",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 70.67714126726742,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 60,
+    "state": "DOWN",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 70.0,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 61,
+    "state": "DOWN",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 70.67714126726742,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 62,
+    "state": "DOWN",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 72.69189160376655,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 63,
+    "state": "DOWN",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 75.99464116963975,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 64,
+    "state": "DOWN",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 80.50406530937789,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 65,
+    "state": "DOWN",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 86.10912703473987,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 66,
+    "state": "DOWN",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 92.67181112391397,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 67,
+    "state": "DOWN",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 100.03052251432491,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 68,
+    "state": "DOWN",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 108.00406530937789,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 69,
+    "state": "DOWN",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 116.39610442278729,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 70,
+    "state": "DOWN",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 124.99999999999999,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 71,
+    "state": "DOWN",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 133.6038955772127,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 72,
+    "state": "DOWN",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 141.99593469062214,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 73,
+    "state": "DOWN",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 149.96947748567507,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 74,
+    "state": "DOWN",
+    "rep_count": 1,
+    "form": "good",
+    "knee_angle": 157.328188876086,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 75,
+    "state": "UP",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 163.89087296526012,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 76,
+    "state": "UP",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 169.4959346906221,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 77,
+    "state": "UP",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 174.0053588303602,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 78,
+    "state": "UP",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 177.30810839623334,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 79,
+    "state": "UP",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 179.32285873273227,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 80,
+    "state": "UP",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 180.0,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 81,
+    "state": "UP",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 179.32285873273227,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 82,
+    "state": "UP",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 177.30810839623334,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 83,
+    "state": "UP",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 174.0053588303602,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 84,
+    "state": "UP",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 169.4959346906221,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 85,
+    "state": "UP",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 163.89087296526012,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 86,
+    "state": "UP",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 157.328188876086,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 87,
+    "state": "UP",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 149.96947748567507,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 88,
+    "state": "UP",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 141.99593469062214,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 89,
+    "state": "UP",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 133.6038955772127,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 90,
+    "state": "UP",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 125.00000000000001,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 91,
+    "state": "UP",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 116.39610442278729,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 92,
+    "state": "UP",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 108.00406530937789,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 93,
+    "state": "UP",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 100.03052251432493,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 94,
+    "state": "DOWN",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 92.67181112391397,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 95,
+    "state": "DOWN",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 86.10912703473988,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 96,
+    "state": "DOWN",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 80.50406530937789,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 97,
+    "state": "DOWN",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 75.99464116963978,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 98,
+    "state": "DOWN",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 72.69189160376655,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 99,
+    "state": "DOWN",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 70.67714126726742,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 100,
+    "state": "DOWN",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 70.0,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 101,
+    "state": "DOWN",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 70.67714126726742,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 102,
+    "state": "DOWN",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 72.69189160376655,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 103,
+    "state": "DOWN",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 75.99464116963975,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 104,
+    "state": "DOWN",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 80.50406530937789,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 105,
+    "state": "DOWN",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 86.10912703473987,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 106,
+    "state": "DOWN",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 92.67181112391397,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 107,
+    "state": "DOWN",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 100.03052251432491,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 108,
+    "state": "DOWN",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 108.00406530937789,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 109,
+    "state": "DOWN",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 116.39610442278729,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 110,
+    "state": "DOWN",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 124.99999999999999,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 111,
+    "state": "DOWN",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 133.6038955772127,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 112,
+    "state": "DOWN",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 141.99593469062214,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 113,
+    "state": "DOWN",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 149.96947748567507,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 114,
+    "state": "DOWN",
+    "rep_count": 2,
+    "form": "good",
+    "knee_angle": 157.328188876086,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 115,
+    "state": "UP",
+    "rep_count": 3,
+    "form": "good",
+    "knee_angle": 163.89087296526012,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 116,
+    "state": "UP",
+    "rep_count": 3,
+    "form": "good",
+    "knee_angle": 169.4959346906221,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 117,
+    "state": "UP",
+    "rep_count": 3,
+    "form": "good",
+    "knee_angle": 174.0053588303602,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 118,
+    "state": "UP",
+    "rep_count": 3,
+    "form": "good",
+    "knee_angle": 177.30810839623334,
+    "rejected_fast_reps": 0
+  },
+  {
+    "frame": 119,
+    "state": "UP",
+    "rep_count": 3,
+    "form": "good",
+    "knee_angle": 179.32285873273227,
+    "rejected_fast_reps": 0
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "name": "Jumping Jack",
+  "description": "Standard jumping jack. Tracks arm elevation angle (hip-shoulder-elbow) and leg spread ratio (ankle distance / hip distance). Front-view camera recommended.",
+  "source": "hardcoded",
+  "camera_view": "front",
+  "fallback_mode": "require_all",
+  "initial_state": "IDLE",
+  "angle_signals": [
+    {
+      "name": "arm_angle",
+      "landmarks": ["HIP", "SHOULDER", "ELBOW"],
+      "bilateral": true,
+      "importance": 0.8
+    }
+  ],
+  "ratio_signals": [
+    {
+      "name": "leg_spread_ratio",
+      "numerator": ["LEFT_ANKLE", "RIGHT_ANKLE"],
+      "denominator": ["LEFT_HIP", "RIGHT_HIP"],
+      "importance": 0.8
+    }
+  ],
+  "transitions": [
+    {
+      "from_states": ["IDLE", "DOWN"],
+      "to_state": "UP",
+      "conditions": [
+        {"signal": "arm_angle", "direction": "above", "threshold": 140},
+        {"signal": "leg_spread_ratio", "direction": "above", "threshold": 1.8}
+      ]
+    },
+    {
+      "from_states": ["UP"],
+      "to_state": "DOWN",
+      "conditions": [
+        {"signal": "arm_angle", "direction": "below", "threshold": 140},
+        {"signal": "leg_spread_ratio", "direction": "below", "threshold": 1.8}
+      ]
+    }
+  ],
+  "rep_complete_transition": ["UP", "DOWN"],
+  "form": {
+    "tracking": "max",
+    "during_state": "UP",
+    "tracked_signals": ["arm_angle", "leg_spread_ratio"],
+    "levels": [
+      {
+        "rating": "excellent",
+        "operator": "all",
+        "conditions": [
+          {"signal": "arm_angle", "direction": "above", "threshold": 160},
+          {"signal": "leg_spread_ratio", "direction": "above", "threshold": 2.3}
+        ]
+      },
+      {
+        "rating": "good",
+        "operator": "all",
+        "conditions": [
+          {"signal": "arm_angle", "direction": "above", "threshold": 140},
+          {"signal": "leg_spread_ratio", "direction": "above", "threshold": 1.8}
+        ]
+      },
+      {
+        "rating": "fair",
+        "operator": "any",
+        "conditions": [
+          {"signal": "arm_angle", "direction": "above", "threshold": 140},
+          {"signal": "leg_spread_ratio", "direction": "above", "threshold": 1.8}
+        ]
+      }
+    ]
+  }
+}

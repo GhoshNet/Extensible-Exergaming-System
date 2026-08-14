@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local video files -- not distributed with this repository
+*.mp4
+*.mov
+*.MOV
+*.avi
+Videos/
+demo-videos/
+
+# Generated figures and evaluation output
+reports/figures/
+sessions/

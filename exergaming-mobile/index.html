@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no" />
+  <title>Exergaming — Mobile</title>
+  <meta name="theme-color" content="#0f1115" />
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" href="icons/icon-192.png" />
+  <link rel="apple-touch-icon" href="icons/icon-192.png" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <select id="exerciseSelect" aria-label="Exercise"></select>
+    <span id="sourceLabel" class="source-label">—</span>
+  </header>
+
+  <main class="stage">
+    <div id="videoWrap" class="video-wrap">
+      <!-- No `autoplay`: a loaded video file must sit on its first frame until
+           Start is tapped. The live camera stream is played explicitly in
+           startCamera() instead. -->
+      <video id="video" playsinline muted></video>
+      <canvas id="overlay"></canvas>
+
+      <div id="warningBanner" class="warning-banner"></div>
+
+      <div id="countdownOverlay" class="countdown-overlay">
+        <div id="countdownNumber" class="countdown-number">5</div>
+        <div class="countdown-label">Get into position…</div>
+      </div>
+
+      <div class="hud">
+        <div class="hud-rep">
+          <span id="repCount">0</span>
+          <span class="hud-rep-label">reps</span>
+        </div>
+        <div class="hud-badges">
+          <span id="stateBadge" class="badge">IDLE</span>
+          <span id="formBadge" class="badge" data-form="good">good</span>
+          <span id="fpsBadge" class="badge badge-muted">0 fps</span>
+        </div>
+      </div>
+    </div>
+
+    <div id="loadingOverlay" class="loading-overlay">
+      <div class="spinner"></div>
+      <div id="loadingText">Loading…</div>
+    </div>
+  </main>
+
+  <footer class="controls">
+    <button id="resetBtn" class="btn btn-ghost">Reset</button>
+    <button id="startBtn" class="btn btn-primary">Start</button>
+    <button id="stopBtn" class="btn btn-ghost">Stop</button>
+    <button id="flipBtn" class="btn btn-icon" title="Switch camera">⟲</button>
+    <label class="btn btn-icon" title="Load video from phone">
+      📁
+      <input id="fileInput" type="file" accept="video/*" hidden />
+    </label>
+  </footer>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+video,exercise,condition,frames,frames_with_pose,detection_rate,reps,mean_ms,median_ms,p95_ms,fps_ceiling
+man-home-squats.mp4,Learned Squat,detect_only,700,700,100.0,7,16.38,16.13,16.57,61.1
+man-home-squats.mp4,Learned Squat,baseline_render,700,700,100.0,7,17.63,17.41,17.86,56.7
+man-home-squats.mp4,Learned Squat,full_c2,700,700,100.0,7,17.69,17.48,18.01,56.5
+Pushups-man-outside.mp4,Learned Push-up,detect_only,348,348,100.0,3,17.1,16.38,17.93,58.5
+Pushups-man-outside.mp4,Learned Push-up,baseline_render,348,348,100.0,3,17.63,17.28,18.02,56.7
+Pushups-man-outside.mp4,Learned Push-up,full_c2,348,348,100.0,3,17.72,17.12,18.5,56.4
+JumpingJacks-Man.mp4,Jumping Jack,detect_only,329,329,100.0,7,17.11,16.39,18.72,58.4
+JumpingJacks-Man.mp4,Jumping Jack,baseline_render,329,329,100.0,7,18.34,17.81,19.54,54.5
+JumpingJacks-Man.mp4,Jumping Jack,full_c2,329,329,100.0,7,18.22,17.66,18.88,54.9
+BicepCurlIndividualHands.mp4,BicepCurl,detect_only,591,591,100.0,5,16.77,16.48,17.48,59.6
+BicepCurlIndividualHands.mp4,BicepCurl,baseline_render,591,591,100.0,5,17.95,17.47,18.66,55.7
+BicepCurlIndividualHands.mp4,BicepCurl,full_c2,591,591,100.0,5,17.68,17.42,18.32,56.6
+ShoulderPressTraining.mov,ShoulderPress,detect_only,650,650,100.0,4,16.85,16.6,17.18,59.3
+ShoulderPressTraining.mov,ShoulderPress,baseline_render,650,650,100.0,4,18.48,18.35,18.79,54.1
+ShoulderPressTraining.mov,ShoulderPress,full_c2,650,650,100.0,4,18.92,18.73,19.31,52.9

@@ -1,0 +1,20 @@
+track,subset,unit,n,mean,median,sd,se,min,max
+A,all videos,% frames with pose,640,96.28,100.0,12.77,0.5,0.0,100.0
+B,all videos,% rep accuracy,239,75.87,100.0,38.19,2.47,0.0,100.0
+B,squat,% rep accuracy,40,78.79,100.0,37.67,5.96,0.0,100.0
+B,push-up,% rep accuracy,70,70.62,100.0,41.77,4.99,0.0,100.0
+B,barbell_biceps_curl,% rep accuracy,75,77.56,100.0,38.8,4.48,0.0,100.0
+B,hammer_curl,% rep accuracy,18,66.21,87.5,41.21,9.71,0.0,100.0
+B,shoulder_press,% rep accuracy,36,84.17,100.0,26.45,4.41,0.0,100.0
+B,hammer_curl unilateral,% rep accuracy,5,30.0,40.0,28.28,12.65,0.0,60.0
+B,hammer_curl bilateral,% rep accuracy,13,80.13,100.0,37.2,10.32,0.0,100.0
+C,all cells,% rep accuracy,24,83.33,100.0,25.48,5.2,20.0,100.0
+C,angle 0 deg,% rep accuracy,8,87.5,100.0,18.32,6.48,60.0,100.0
+C,angle 45 deg,% rep accuracy,8,97.5,100.0,7.07,2.5,80.0,100.0
+C,angle 90 deg,% rep accuracy,8,65.0,60.0,33.38,11.8,20.0,100.0
+C,distance 2m,% rep accuracy,12,86.67,100.0,19.69,5.69,40.0,100.0
+C,distance 5m,% rep accuracy,12,80.0,100.0,30.75,8.88,20.0,100.0
+D,detect_only,ms per frame,5,16.84,16.85,0.3,0.13,16.38,17.11
+D,baseline_render,ms per frame,5,18.01,17.95,0.39,0.18,17.63,18.48
+D,full_c2,ms per frame,5,18.05,17.72,0.54,0.24,17.68,18.92
+D,C2 marginal cost,ms per frame,5,0.04,0.06,0.27,0.12,-0.27,0.44
